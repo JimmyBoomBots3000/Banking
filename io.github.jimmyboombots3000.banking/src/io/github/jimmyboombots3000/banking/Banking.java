@@ -1,3 +1,4 @@
+package io.github.jimmyboombots3000.banking;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

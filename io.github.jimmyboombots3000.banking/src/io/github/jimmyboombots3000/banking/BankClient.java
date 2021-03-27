@@ -1,5 +1,6 @@
+package io.github.jimmyboombots3000.banking;
 
-class BankClient {
+public class BankClient {
 	
 	private String clientName;
 	private int clientType;
